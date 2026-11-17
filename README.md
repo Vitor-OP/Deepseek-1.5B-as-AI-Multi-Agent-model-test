@@ -1,5 +1,7 @@
 # Simple Multi-Agent AI Framework to test the Deepseek 1.5B model
 
+**EDIT: This was build long before the agentic frameworks took over the SOTA of AI pipelines, my attempt was to exactly try to build an experiment into this direction that, by that time, not available commercially. Now adays n8n, Langflow, ADK and many others show how I was in the right direction when playing aroung with local AIs at that time. **
+
 Overview
 
 This project is a simple attempt at building a multi-agent AI system, designed as a hands-on experiment with the smallest DeepSeek model, a reasoning model (perfect for a decision making AI) running localy in my notebook. The framework is lightweight and modular, allowing for easy integration of different agent functionalities, such as memory storage, LinkedIn and company data retrieval, and chatbot interactions.
